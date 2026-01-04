@@ -1,0 +1,40 @@
+.bg-container {
+    background-color: antiquewhite;
+    box-shadow: 2px 2px 10px gray;
+    background-size: cover;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'roboto';
+}
+
+.formsheet-top-section {
+    background-color: aqua;
+    background-size: cover;
+    padding: 7px;
+}
+
+.main-heading {
+    font-weight: bold;
+    text-align: center;
+    font-size: 35px;
+}
+
+.form-top-sectiom-content {
+    margin: 5px;
+}
+
+h4 {
+    color: black;
+    font-size: 24px;
+}
+
+.topinput-box {
+    width: 450px;
+}
+
+label {
+    font-size: 18px;
+    font-weight: 400
+}
