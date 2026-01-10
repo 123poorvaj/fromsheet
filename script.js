@@ -42,7 +42,7 @@ function validation() {
         }
     }
     if (!devicecheck) {
-        alert("enter devices");
+        alert("Choose your Devices");
         devices[0].focus();
         return false;
     }
@@ -54,7 +54,7 @@ function validation() {
         }
     }
     if (!checkgender) {
-        alert('enter gender');
+        alert('Choose your Gender');
         gender[0].focus();
         return false;
     }
