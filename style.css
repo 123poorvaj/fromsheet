@@ -11,9 +11,6 @@
 .bg-container {
     background-color: antiquewhite;
     box-shadow: 2px 2px 10px gray;
-    position: absolute;
-    top: 50%;
-    left: 40%;
     background-size: cover;
     font-family: 'roboto';
 }
@@ -78,3 +75,4 @@ textarea:focus {
     width: 100vw;
 
 }
+
