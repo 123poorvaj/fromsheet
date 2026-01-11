@@ -5,7 +5,7 @@
 
 .form-section-bg-container {
     background-image: linear-gradient(to top, gray, black);
-    background-size: cover;
+   
 }
 
 .bg-container {
@@ -75,4 +75,5 @@ textarea:focus {
     width: 100vw;
 
 }
+
 
