@@ -1,0 +1,32 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.bg-container {
+    height: 100vh;
+    width: 100vw;
+    background-image: linear-gradient(to top, rgb(85, 215, 224), pink);
+    font-family: "roboto";
+}
+
+.my-section {
+    background-color: black;
+    background-size: cover;
+    color: aliceblue;
+}
+
+form {
+    background-color: rgb(224, 179, 179);
+    background-size: cover;
+    color: rgb(0, 0, 0);
+}
+
+textarea {
+    height: 25vh;
+}
+
+input {
+    padding: 10px;
+    border: solid black 2px;
+}
